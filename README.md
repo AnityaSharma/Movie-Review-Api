@@ -1,1 +1,2 @@
 # Movie-Review-Api
+This Application is in very initial stage to run it you have to clone it the usual way and add data manually related to the movies review yourself to the DB using MongoDB compass, demo dataset is provided in resources folder named as data.json for dev purposes. download it and import it to your MongoDB collecton.
